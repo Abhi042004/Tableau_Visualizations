@@ -8,14 +8,13 @@ This repository contains two main Tableau analysis projects supported by dataset
 
 | File | Description |
 |------|------------|
-| **CS 1 (Titanic) - ENG23AM0081.twbx** | ✅ Main Tableau Workbook — Titanic Case Study |
-| **CS 2 (Coffee) - ENG23AM0081.twbx** | ✅ Main Tableau Workbook — Coffee Chain Case Study |
-| CASE_STUDY_1_TITATNIC.docx | 📄 Step-by-step task instructions for Titanic analysis |
-| CASE_STUDY_2_COFFEE_CHAIN.docx | 📄 Step-by-step task instructions for Coffee Chain analysis |
+| **CS 1 (Titanic) - Titanic.twb** | ✅ Main Tableau Workbook — Titanic Case Study |
+| **CS 2 (Coffee) - Coffee.twb** | ✅ Main Tableau Workbook — Coffee Chain Case Study |
+| CASE_STUDY_1_TITATNIC.pdf | 📄 Step-by-step task instructions for Titanic analysis |
+| CASE_STUDY_2_COFFEE_CHAIN.pdf | 📄 Step-by-step task instructions for Coffee Chain analysis |
 | titanic.csv | 📂 Source dataset for Titanic workbook |
 | Coffee.csv | 📂 Source dataset for Coffee Chain workbook |
 
-> **Note:** `.twbx` files are the main dashboards. `.docx` & `.csv` files are supporting.
 
 ---
 
@@ -81,7 +80,7 @@ This repository contains two main Tableau analysis projects supported by dataset
 ---
 
 ## 👤 Author  
-**Vansh Soni (ENG23AM0081)**
+**Abhishek Tiwari (ENG23AM0097)**
 
 ---
 
